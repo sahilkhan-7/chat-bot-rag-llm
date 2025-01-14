@@ -16,7 +16,7 @@ A powerful and intuitive chat application that allows users to have interactive 
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.8 or later versions
 - OpenAI API key
 
 ### Installation
